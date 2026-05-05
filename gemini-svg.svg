@@ -1,0 +1,18 @@
+<svg width="200" height="200" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Círculo de fundo que representa o 'Hub' -->
+  <circle cx="12" cy="12" r="11" stroke="#2563EB" stroke-width="2" fill="#EFF6FF"/>
+  
+  <!-- Documento de fundo (perspectiva) -->
+  <path d="M9 7H14L17 10V17C17 17.5523 16.5523 18 16 18H9C8.44772 18 8 17.5523 8 17V8C8 7.44772 8.44772 7 9 7Z" fill="#93C5FD"/>
+  
+  <!-- Documento principal na frente -->
+  <path d="M7 9H12L15 12V19C15 19.5523 14.5523 20 14 20H7C6.44772 20 6 19.5523 6 19V10C6 9.44772 6.44772 9 7 9Z" fill="white" stroke="#1E40AF" stroke-width="1.5"/>
+  
+  <!-- Detalhe da dobra do papel -->
+  <path d="M12 9V12H15" stroke="#1E40AF" stroke-width="1.5" stroke-linejoin="round"/>
+  
+  <!-- Linhas simulando texto -->
+  <line x1="8" y1="13" x2="13" y2="13" stroke="#1E40AF" stroke-width="1" stroke-linecap="round"/>
+  <line x1="8" y1="15" x2="13" y2="15" stroke="#1E40AF" stroke-width="1" stroke-linecap="round"/>
+  <line x1="8" y1="17" x2="11" y2="17" stroke="#1E40AF" stroke-width="1" stroke-linecap="round"/>
+</svg>
